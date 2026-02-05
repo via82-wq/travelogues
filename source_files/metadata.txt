@@ -1,0 +1,7 @@
+title: Meri Jindgi Da Safarnama
+
+filename: travelogue.txt
+
+URL: https://archive.org/stream/MeriJindgiDaSafarnama/Meri%20Jindgi%20Da%20Safarnama_djvu.txt
+
+project_URL: https://archive.org/details/MeriJindgiDaSafarnama 
